@@ -15,6 +15,7 @@ UniSchedule is a comprehensive mobile application designed primarily for univers
 - **Backend Services:** https://github.com/ISIS3510-202410-Team-13/Backend
 - **Analytics Engine:** https://github.com/ISIS3510-202410-Team-13/Analytics
 - **Organization:** https://github.com/ISIS3510-202410-Team-13
+- **Figma:** https://www.figma.com/file/MuginV7SKcpUFni1RM0ggT/UniSchedule
 
 ## Development Team
 
