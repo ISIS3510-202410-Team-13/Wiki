@@ -10,7 +10,6 @@ UniSchedule is a comprehensive mobile application designed primarily for univers
 
 - **Wiki:** https://github.com/ISIS3510-202410-Team-13/Wiki/wiki
 - **Project Backlog:** https://github.com/orgs/ISIS3510-202410-Team-13/projects/2
-- **Kotlin Repository:** https://github.com/ISIS3510-202410-Team-13/Kotlin
 - **Flutter Repository:** https://github.com/ISIS3510-202410-Team-13/Flutter
 - **Backend Services:** https://github.com/ISIS3510-202410-Team-13/Backend
 - **Analytics Engine:** https://github.com/ISIS3510-202410-Team-13/Analytics
@@ -19,14 +18,6 @@ UniSchedule is a comprehensive mobile application designed primarily for univers
 
 ## Development Team
 
-### Android Kotlin
-
-* Laura Daniela Arias Florez - l.ariasf@uniandes.edu.co - [Laudarias](https://github.com/Laudarias)
-* Juan Diego Castellanos Bonilla - jd.castellanosb@uniandes.edu.co - [jdcastellanosb73](https://github.com/jdcastellanosb73)
-
-### Flutter
-
 * Juan Sebastian Urrea Lopez - js.urrea@uniandes.edu.co - [jsurrea](https://github.com/jsurrea)
 * Juan Esteban Cuellar Argotty - j.cuellara@uniandes.edu.co - [iGotty](https://github.com/iGotty)
 * David Santiago Ortiz Almanza - ds.ortiz@uniandes.edu.co - [SnowArtz](https://github.com/SnowArtz)
-
